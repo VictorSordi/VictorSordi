@@ -44,7 +44,7 @@
 
 <br>
 
-💾 Databases:
+### 💾 Databases:
 
 <br>
 
@@ -53,7 +53,7 @@
 
 </br>
 
-🎮 Game Development:
+### 🎮 Game Development:
 
 </br>
 
