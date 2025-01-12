@@ -66,9 +66,5 @@
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorSordi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSordi&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<br>
-
-  ![VictorSordi GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSordi&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSordi&size_weight=0.5&count_weight=0.5)
 </div>
 
